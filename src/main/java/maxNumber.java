@@ -1,5 +1,5 @@
 import java.util.*;
-class Solution {
+class maxNumber {
     public String solution(String number, int k) {
 
         //"1924"  제거할 숫자 개수2
